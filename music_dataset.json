@@ -1,0 +1,502 @@
+[
+  {
+    "Song Name":"Blinding Lights",
+    "Artist":"The Weeknd",
+    "Genre":"Pop",
+    "Mood":"Energetic",
+    "Tempo":"Fast",
+    "Language":"English",
+    "Release Year":2019,
+    "Description":"Synth-pop hit with upbeat retro vibes."
+  },
+  {
+    "Song Name":"Shape of You",
+    "Artist":"Ed Sheeran",
+    "Genre":"Pop",
+    "Mood":"Romantic",
+    "Tempo":"Medium",
+    "Language":"English",
+    "Release Year":2017,
+    "Description":"Catchy pop song about attraction and love."
+  },
+  {
+    "Song Name":"Someone Like You",
+    "Artist":"Adele",
+    "Genre":"Soul",
+    "Mood":"Sad",
+    "Tempo":"Slow",
+    "Language":"English",
+    "Release Year":2011,
+    "Description":"Emotional ballad about heartbreak and acceptance."
+  },
+  {
+    "Song Name":"Believer",
+    "Artist":"Imagine Dragons",
+    "Genre":"Rock",
+    "Mood":"Motivational",
+    "Tempo":"Fast",
+    "Language":"English",
+    "Release Year":2017,
+    "Description":"Powerful anthem about overcoming pain."
+  },
+  {
+    "Song Name":"Perfect",
+    "Artist":"Ed Sheeran",
+    "Genre":"Pop",
+    "Mood":"Romantic",
+    "Tempo":"Slow",
+    "Language":"English",
+    "Release Year":2017,
+    "Description":"Soft love song ideal for romantic moments."
+  },
+  {
+    "Song Name":"Levitating",
+    "Artist":"Dua Lipa",
+    "Genre":"Disco Pop",
+    "Mood":"Happy",
+    "Tempo":"Fast",
+    "Language":"English",
+    "Release Year":2020,
+    "Description":"Dance-pop track with vibrant energy."
+  },
+  {
+    "Song Name":"Stay",
+    "Artist":"The Kid LAROI & Justin Bieber",
+    "Genre":"Pop",
+    "Mood":"Emotional",
+    "Tempo":"Medium",
+    "Language":"English",
+    "Release Year":2021,
+    "Description":"Modern pop song about love and regret."
+  },
+  {
+    "Song Name":"Heat Waves",
+    "Artist":"Glass Animals",
+    "Genre":"Indie Pop",
+    "Mood":"Chill",
+    "Tempo":"Medium",
+    "Language":"English",
+    "Release Year":2020,
+    "Description":"Relaxed indie hit with nostalgic feelings."
+  },
+  {
+    "Song Name":"Counting Stars",
+    "Artist":"OneRepublic",
+    "Genre":"Pop Rock",
+    "Mood":"Motivational",
+    "Tempo":"Medium",
+    "Language":"English",
+    "Release Year":2013,
+    "Description":"Inspirational song about chasing dreams."
+  },
+  {
+    "Song Name":"Thunder",
+    "Artist":"Imagine Dragons",
+    "Genre":"Rock",
+    "Mood":"Energetic",
+    "Tempo":"Fast",
+    "Language":"English",
+    "Release Year":2017,
+    "Description":"High-energy anthem about self-belief."
+  },
+  {
+    "Song Name":"Flowers",
+    "Artist":"Miley Cyrus",
+    "Genre":"Pop",
+    "Mood":"Confident",
+    "Tempo":"Medium",
+    "Language":"English",
+    "Release Year":2023,
+    "Description":"Self-love anthem celebrating independence."
+  },
+  {
+    "Song Name":"Bad Habits",
+    "Artist":"Ed Sheeran",
+    "Genre":"Dance Pop",
+    "Mood":"Party",
+    "Tempo":"Fast",
+    "Language":"English",
+    "Release Year":2021,
+    "Description":"Upbeat dance song about temptation."
+  },
+  {
+    "Song Name":"Rolling in the Deep",
+    "Artist":"Adele",
+    "Genre":"Soul",
+    "Mood":"Powerful",
+    "Tempo":"Medium",
+    "Language":"English",
+    "Release Year":2010,
+    "Description":"Emotional breakup song with strong vocals."
+  },
+  {
+    "Song Name":"Radioactive",
+    "Artist":"Imagine Dragons",
+    "Genre":"Alternative Rock",
+    "Mood":"Intense",
+    "Tempo":"Medium",
+    "Language":"English",
+    "Release Year":2012,
+    "Description":"Apocalyptic rock anthem with electronic influences."
+  },
+  {
+    "Song Name":"Viva La Vida",
+    "Artist":"Coldplay",
+    "Genre":"Alternative Rock",
+    "Mood":"Reflective",
+    "Tempo":"Medium",
+    "Language":"English",
+    "Release Year":2008,
+    "Description":"Orchestral rock song about lost glory."
+  },
+  {
+    "Song Name":"Kesariya",
+    "Artist":"Arijit Singh",
+    "Genre":"Bollywood",
+    "Mood":"Romantic",
+    "Tempo":"Medium",
+    "Language":"Hindi",
+    "Release Year":2022,
+    "Description":"Soulful love song from Brahmastra."
+  },
+  {
+    "Song Name":"Tum Hi Ho",
+    "Artist":"Arijit Singh",
+    "Genre":"Bollywood",
+    "Mood":"Emotional",
+    "Tempo":"Slow",
+    "Language":"Hindi",
+    "Release Year":2013,
+    "Description":"Deep romantic ballad expressing eternal love."
+  },
+  {
+    "Song Name":"Raataan Lambiyan",
+    "Artist":"Jubin Nautiyal & Asees Kaur",
+    "Genre":"Bollywood",
+    "Mood":"Romantic",
+    "Tempo":"Slow",
+    "Language":"Hindi",
+    "Release Year":2021,
+    "Description":"Melodious duet celebrating togetherness."
+  },
+  {
+    "Song Name":"Apna Bana Le",
+    "Artist":"Arijit Singh",
+    "Genre":"Bollywood",
+    "Mood":"Romantic",
+    "Tempo":"Slow",
+    "Language":"Hindi",
+    "Release Year":2022,
+    "Description":"Soft romantic melody from Bhediya."
+  },
+  {
+    "Song Name":"Channa Mereya",
+    "Artist":"Arijit Singh",
+    "Genre":"Bollywood",
+    "Mood":"Heartbroken",
+    "Tempo":"Slow",
+    "Language":"Hindi",
+    "Release Year":2016,
+    "Description":"Emotional song about unfulfilled love."
+  },
+  {
+    "Song Name":"Ghungroo",
+    "Artist":"Arijit Singh & Shilpa Rao",
+    "Genre":"Bollywood",
+    "Mood":"Party",
+    "Tempo":"Fast",
+    "Language":"Hindi",
+    "Release Year":2019,
+    "Description":"Dance number with energetic beats."
+  },
+  {
+    "Song Name":"Malang",
+    "Artist":"Ved Sharma",
+    "Genre":"Bollywood",
+    "Mood":"Passionate",
+    "Tempo":"Medium",
+    "Language":"Hindi",
+    "Release Year":2020,
+    "Description":"Romantic track with adventurous spirit."
+  },
+  {
+    "Song Name":"Zinda",
+    "Artist":"Siddharth Mahadevan",
+    "Genre":"Rock",
+    "Mood":"Motivational",
+    "Tempo":"Fast",
+    "Language":"Hindi",
+    "Release Year":2013,
+    "Description":"Inspiring song about living fearlessly."
+  },
+  {
+    "Song Name":"Ilahi",
+    "Artist":"Arijit Singh",
+    "Genre":"Bollywood",
+    "Mood":"Travel",
+    "Tempo":"Medium",
+    "Language":"Hindi",
+    "Release Year":2013,
+    "Description":"Feel-good travel anthem full of freedom."
+  },
+  {
+    "Song Name":"Kaise Hua",
+    "Artist":"Vishal Mishra",
+    "Genre":"Bollywood",
+    "Mood":"Romantic",
+    "Tempo":"Slow",
+    "Language":"Hindi",
+    "Release Year":2019,
+    "Description":"Tender love song with heartfelt lyrics."
+  },
+  {
+    "Song Name":"Bulleya",
+    "Artist":"Amit Mishra & Shilpa Rao",
+    "Genre":"Sufi Rock",
+    "Mood":"Emotional",
+    "Tempo":"Medium",
+    "Language":"Hindi",
+    "Release Year":2016,
+    "Description":"Intense song blending rock and Sufi elements."
+  },
+  {
+    "Song Name":"Tera Ban Jaunga",
+    "Artist":"Akhil Sachdeva",
+    "Genre":"Bollywood",
+    "Mood":"Romantic",
+    "Tempo":"Slow",
+    "Language":"Hindi",
+    "Release Year":2019,
+    "Description":"Sweet love song expressing lifelong commitment."
+  },
+  {
+    "Song Name":"Bekhayali",
+    "Artist":"Sachet Tandon",
+    "Genre":"Bollywood",
+    "Mood":"Heartbroken",
+    "Tempo":"Medium",
+    "Language":"Hindi",
+    "Release Year":2019,
+    "Description":"Emotional song about pain after separation."
+  },
+  {
+    "Song Name":"Dil Diyan Gallan",
+    "Artist":"Atif Aslam",
+    "Genre":"Bollywood",
+    "Mood":"Romantic",
+    "Tempo":"Slow",
+    "Language":"Hindi",
+    "Release Year":2017,
+    "Description":"Romantic melody filled with affection."
+  },
+  {
+    "Song Name":"Galliyan",
+    "Artist":"Ankit Tiwari",
+    "Genre":"Bollywood",
+    "Mood":"Emotional",
+    "Tempo":"Medium",
+    "Language":"Hindi",
+    "Release Year":2014,
+    "Description":"Emotional love song with powerful vocals."
+  },
+  {
+    "Song Name":"Excuses",
+    "Artist":"AP Dhillon & Gurinder Gill",
+    "Genre":"Punjabi Pop",
+    "Mood":"Chill",
+    "Tempo":"Medium",
+    "Language":"Punjabi",
+    "Release Year":2020,
+    "Description":"Modern Punjabi hit with smooth beats."
+  },
+  {
+    "Song Name":"Brown Munde",
+    "Artist":"AP Dhillon, Gurinder Gill & Shinda Kahlon",
+    "Genre":"Punjabi Hip Hop",
+    "Mood":"Confident",
+    "Tempo":"Fast",
+    "Language":"Punjabi",
+    "Release Year":2020,
+    "Description":"Global Punjabi anthem celebrating success."
+  },
+  {
+    "Song Name":"Insane",
+    "Artist":"AP Dhillon",
+    "Genre":"Punjabi Pop",
+    "Mood":"Chill",
+    "Tempo":"Medium",
+    "Language":"Punjabi",
+    "Release Year":2022,
+    "Description":"Relaxed romantic Punjabi track."
+  },
+  {
+    "Song Name":"Born to Shine",
+    "Artist":"Diljit Dosanjh",
+    "Genre":"Punjabi Pop",
+    "Mood":"Confident",
+    "Tempo":"Medium",
+    "Language":"Punjabi",
+    "Release Year":2020,
+    "Description":"Song celebrating confidence and success."
+  },
+  {
+    "Song Name":"Lover",
+    "Artist":"Diljit Dosanjh",
+    "Genre":"Punjabi Romantic",
+    "Mood":"Romantic",
+    "Tempo":"Slow",
+    "Language":"Punjabi",
+    "Release Year":2021,
+    "Description":"Soft romantic Punjabi melody."
+  },
+  {
+    "Song Name":"GOAT",
+    "Artist":"Diljit Dosanjh",
+    "Genre":"Punjabi Hip Hop",
+    "Mood":"Energetic",
+    "Tempo":"Fast",
+    "Language":"Punjabi",
+    "Release Year":2020,
+    "Description":"High-energy anthem about greatness."
+  },
+  {
+    "Song Name":"8 Parche",
+    "Artist":"Baani Sandhu",
+    "Genre":"Punjabi",
+    "Mood":"Party",
+    "Tempo":"Fast",
+    "Language":"Punjabi",
+    "Release Year":2019,
+    "Description":"Popular upbeat Punjabi dance song."
+  },
+  {
+    "Song Name":"Sakhiyaan",
+    "Artist":"Maninder Buttar",
+    "Genre":"Punjabi Pop",
+    "Mood":"Romantic",
+    "Tempo":"Medium",
+    "Language":"Punjabi",
+    "Release Year":2018,
+    "Description":"Romantic song about love and admiration."
+  },
+  {
+    "Song Name":"Laung Laachi",
+    "Artist":"Mannat Noor",
+    "Genre":"Punjabi Folk",
+    "Mood":"Happy",
+    "Tempo":"Medium",
+    "Language":"Punjabi",
+    "Release Year":2018,
+    "Description":"Folk-inspired melody with traditional flavor."
+  },
+  {
+    "Song Name":"Kya Baat Aa",
+    "Artist":"Karan Aujla",
+    "Genre":"Punjabi Pop",
+    "Mood":"Confident",
+    "Tempo":"Medium",
+    "Language":"Punjabi",
+    "Release Year":2022,
+    "Description":"Stylish Punjabi hit with catchy rhythm."
+  },
+  {
+    "Song Name":"Softly",
+    "Artist":"Karan Aujla",
+    "Genre":"Punjabi Pop",
+    "Mood":"Romantic",
+    "Tempo":"Medium",
+    "Language":"Punjabi",
+    "Release Year":2023,
+    "Description":"Smooth modern Punjabi love song."
+  },
+  {
+    "Song Name":"Admirin You",
+    "Artist":"Karan Aujla",
+    "Genre":"Punjabi Pop",
+    "Mood":"Romantic",
+    "Tempo":"Medium",
+    "Language":"Punjabi",
+    "Release Year":2023,
+    "Description":"Song expressing admiration and affection."
+  },
+  {
+    "Song Name":"Obsessed",
+    "Artist":"Riar Saab & Abhijay Sharma",
+    "Genre":"Punjabi Indie",
+    "Mood":"Chill",
+    "Tempo":"Medium",
+    "Language":"Punjabi",
+    "Release Year":2023,
+    "Description":"Viral indie track with mellow vibes."
+  },
+  {
+    "Song Name":"We Rollin",
+    "Artist":"Shubh",
+    "Genre":"Punjabi Hip Hop",
+    "Mood":"Energetic",
+    "Tempo":"Fast",
+    "Language":"Punjabi",
+    "Release Year":2021,
+    "Description":"Fast-paced Punjabi rap anthem."
+  },
+  {
+    "Song Name":"Cheques",
+    "Artist":"Shubh",
+    "Genre":"Punjabi Hip Hop",
+    "Mood":"Confident",
+    "Tempo":"Medium",
+    "Language":"Punjabi",
+    "Release Year":2023,
+    "Description":"Stylish hip-hop track about ambition."
+  },
+  {
+    "Song Name":"Elevated",
+    "Artist":"Shubh",
+    "Genre":"Punjabi Hip Hop",
+    "Mood":"Motivational",
+    "Tempo":"Medium",
+    "Language":"Punjabi",
+    "Release Year":2022,
+    "Description":"Song reflecting success and growth."
+  },
+  {
+    "Song Name":"Bijlee Bijlee",
+    "Artist":"Harrdy Sandhu",
+    "Genre":"Punjabi Pop",
+    "Mood":"Party",
+    "Tempo":"Fast",
+    "Language":"Punjabi",
+    "Release Year":2021,
+    "Description":"Energetic dance number with catchy hooks."
+  },
+  {
+    "Song Name":"Naah",
+    "Artist":"Harrdy Sandhu",
+    "Genre":"Punjabi Pop",
+    "Mood":"Romantic",
+    "Tempo":"Medium",
+    "Language":"Punjabi",
+    "Release Year":2017,
+    "Description":"Romantic Punjabi song with upbeat rhythm."
+  },
+  {
+    "Song Name":"Backbone",
+    "Artist":"Harrdy Sandhu",
+    "Genre":"Punjabi Pop",
+    "Mood":"Confident",
+    "Tempo":"Fast",
+    "Language":"Punjabi",
+    "Release Year":2017,
+    "Description":"Catchy Punjabi hit praising confidence."
+  },
+  {
+    "Song Name":"Titliaan",
+    "Artist":"Afsana Khan",
+    "Genre":"Punjabi Sad",
+    "Mood":"Emotional",
+    "Tempo":"Slow",
+    "Language":"Punjabi",
+    "Release Year":2020,
+    "Description":"Emotional ballad about betrayal in love."
+  }
+]
