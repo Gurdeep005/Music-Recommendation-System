@@ -35,3 +35,17 @@ The project uses a dataset of 50 songs (`music_dataset.json`), each containing:
 - Language
 - Release Year
 - Description
+
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/01_home_screen.png)
+
+### Song Recommendation
+![Recommendations](screenshots/02_song_recommendation.png)
+
+### Natural Language Search
+![Natural Language Search](screenshots/03_natural_language_search.png)
+
+### Filters Applied
+![Filters](screenshots/04_filters_applied.png)
