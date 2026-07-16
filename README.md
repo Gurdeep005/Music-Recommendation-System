@@ -24,4 +24,14 @@ Installed automatically via pip in the notebook:
 - gradio
 
 ## Dataset
-`music_dataset.json` — 50 songs with fields: Song Name, Artist, Genre, Mood, Tempo, Language, Release Year, Description
+
+The project uses a dataset of 50 songs (`music_dataset.json`), each containing:
+
+- Song Name
+- Artist
+- Genre
+- Mood
+- Tempo
+- Language
+- Release Year
+- Description
