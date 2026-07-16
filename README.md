@@ -39,13 +39,13 @@ The project uses a dataset of 50 songs (`music_dataset.json`), each containing:
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/01_home_screen.png)
+![Home Screen](Screenshots/01_home_screen.png)
 
 ### Song Recommendation
-![Recommendations](screenshots/02_song_recommendation.png)
+![Recommendations](Screenshots/02_song_recommendation.png)
 
 ### Natural Language Search
-![Natural Language Search](screenshots/03_natural_language_search.png)
+![Natural Language Search](Screenshots/03_natural_language_search.png)
 
 ### Filters Applied
-![Filters](screenshots/04_filters_applied.png)
+![Filters](Screenshots/04_filters_applied.png)
